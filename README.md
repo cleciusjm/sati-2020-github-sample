@@ -1,8 +1,6 @@
 ## Introdução a Git e GitHub
 
-#### Links
-
-Links gerais:
+#### Links Gerais
 
 - [Slides](https://bit.ly/github-sati-2020)
 - [GitHub Pages](https://cleciusjm.github.io/git-sati-2020)
