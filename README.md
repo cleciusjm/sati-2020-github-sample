@@ -12,4 +12,3 @@ Logo abaixo você poderá adicionar seu nome a lista com o link para seu github
 - [Gustavo Alexi Marcondes Rodrigues](https://github.com/km33x)
 - [Jefferson Michael](https://github.com/jeffersonjpr)
 - [Andressa Gobbo](https://github.com/andressafgd)
-- [Jefferson Michael](https://github.com/jeffersonjpr)
